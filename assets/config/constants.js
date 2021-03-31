@@ -1,1 +1,0 @@
-export default API_URL = 'https://e5a07bcd9c5f.ngrok.io';
